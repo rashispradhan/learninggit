@@ -69,7 +69,7 @@ get_header();
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 order-lg-0">
+                    <div class="col-lg-4">
                         <!-- Features section device mockup-->
                         <div class="features-device-mockup">
                             <svg class="circle" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
